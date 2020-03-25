@@ -1,11 +1,17 @@
 # Hamaji workout Protocol
 
 ## Introduction
+
+  _"It's ok to lose to opponent. It's never okay to lose to fear."_ (Mr. Miyagi, Karate Kid Part III-1989)
+
 Hello and welcome, this  document has been created with the intent of bringing some physical stimuli for those that are locked-up during the COVID-19 quarantine.
 
 This repository is opened for all kinds of suggestions! Open a PR if you feel so. 
 
 ## Protocol
+
+  _"Human beings are strong because we can change ourselves."_ (Saitama, One Punch Man-2009)
+
 Remember! These are just some guidelines for your workout. Every person is different with distinct bodies and fitness levels. The goal here is to find a balance between challenging and doable, that you can introduce to your routine, and progressively increase the difficulty level.
 
 ---
@@ -121,6 +127,8 @@ Remember! These are just some guidelines for your workout. Every person is diffe
 ---
 
 ## Progressions
+
+_"It ain’t about how hard ya hit. It’s about how hard you can get hit and keep moving forward."_ (Rocky Balboa, 2006)
 
 The protocol is mainly based in bodyweight movements. The default workout is based in 4 sets of 5 reps each and a minute of rest time between sets. When you feel that the default workout isn's challenging enough you can change your settings, tweaking any of the following:
 - Reps/Set
