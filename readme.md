@@ -44,74 +44,83 @@ Remember! These are just some guidelines for your workout. Every person is diffe
 
 * **Workout**
 
-  This workout is based in five calisthenics exercises. Our goal is to emulate at a certain degree, each of the exercises main examples at home. Select one exercise of each group below. 
+  This workout is based in five calisthenics exercises. Our goal is to emulate at a certain degree, each of the exercises main examples at home. The exercises are ordered from the easier to the hardest. Select one exercise of each group below. 
   
   **Remember! Choose each exercise thinking about the balance challenging/doable!**
 
   * **Pullup**(main example: http://www.youtube.com/watch?v=eGo4IYlbE5g)
 
-    * Door/Column rows
+    1. Door/Column rows
 
       http://www.youtube.com/watch?v=rloXYB8M3vU&t=40
 
-    * Chair/Table rows
+    2. Chair/Table rows
 
       http://www.youtube.com/watch?v=rloXYB8M3vU&t=33
 
   * **Pushup**(main example: https://www.youtube.com/watch?v=IODxDxX7oi4)
 
-    * Incline push ups
+    1. Incline push ups
 
       https://www.youtube.com/watch?v=Me9bHFAxnCs      
 
-    * Bent knee push ups
+    2. Bent knee push ups
 
       https://www.youtube.com/watch?v=LiKfLE2K_DI
 
-    * Decline push ups
+    3. (Bonus)Decline push ups
 
       https://www.youtube.com/watch?v=QuaOc1mFcqs
 
   * **Dips**(main example: https://www.youtube.com/watch?v=2z8JmcrW-As)
 
-    * Bench dips
+    1. Bench dips
 
       https://www.youtube.com/watch?v=0326dy_-CzM
 
-    * Cobra push ups
+    2. Cobra push ups
 
       https://www.youtube.com/watch?v=b6O70RsL-x0
 
-    * Tricep push ups
+    3. Tricep push ups
 
       https://www.youtube.com/watch?v=hfIQ5V4Tcgo
 
-    * Chair dips
+    4. Chair dips
 
   * **Abs**(main example: https://www.youtube.com/watch?v=9pQcSNs3hmY)
 
-    * Crunches
+    1. Crunches
 
       https://www.youtube.com/watch?v=5z9zhsTzKJ4
 
-    * Knee hug crunches
+    2. Knee hug crunches
 
       https://www.youtube.com/watch?v=cE85YAFMUr4
 
-    * Knee raises
+    3. Knee raises
 
       https://www.youtube.com/watch?v=7gOMGqpPmyg
 
   * **Squat**(main example: )
-    * Air squats
-    * Assisted pistol squats
-    * Pistol squats
+
+    1. Air squats
+
+      https://www.youtube.com/watch?v=3uTbBb1hkpc
+
+    2. Pistol box squats
+
+      https://www.youtube.com/watch?v=kc4YfSHjbYE
+
+    3. Assited pistol squats
+
+      https://www.youtube.com/watch?v=un5Wbnczt9s
 
 ---
 
 ## Progressions
 
-The protocol is mainly based in bodyweight movements. Thinking that we have a small pool of different exercises we can change the workout focusing in the following variables:
+The protocol is mainly based in bodyweight movements. Thinking that we have a small pool of different exercises we can change the workout focusing in the following variables, making it more challenging in different ways.
 
 ### Variables
 
@@ -123,11 +132,25 @@ The protocol is mainly based in bodyweight movements. Thinking that we have a sm
 
     Endurance focus is when you prioritize lowering the amount of time needed for the workout. You reduce the amount of the resting time intervals, between sets.
 
-  * Strength(Kind of...)
+  * Strength
     
     Strength focuses on prioritizing the exercise's load(Doing a harder progression).
 
 The regimen starts with 4 sets of 5 reps for each selected exercise, and a minute between sets. When you feel that the workout isn's challenging enough you can change one of the variables above.
+
+The chart below exemplifies how you can change variables to set focus on different objectives.
+
+||Volume|Endurance|Strength|Balance(default)|
+|-|-|-|-|-|
+|Rest time|60s|30s|60s|60s|
+|Reps/Set|10|5|5|5|
+|Progression|Incline push ups|Incline push ups|Knee push ups|Incline push ups|
+
+## Split
+
+||Day 1|Day 2|Day 3|Day 4|
+|-|-|-|-|-|
+|Main Variable|Balance|Volume|Endurance|Strength|
 
 ## External links
 
