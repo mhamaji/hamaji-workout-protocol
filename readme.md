@@ -8,91 +8,126 @@ This repository is opened for all kinds of suggestions! Open a PR if you feel so
 ## Protocol
 Remember! These are just some guidelines for your workout. Every person is different with distinct bodies and fitness levels. The goal here is to find a balance between challenging and doable, that you can introduce to your routine, and progressively increase the difficulty level.
 
-* Warm-up
+---
+
+* **Warm-up**
 
   **WARM-UP IS MANDATORY!** Find a activity that you can keep up for at least 5 minutes. The objective here is to increase your heart rate and blood flow and with this activate your muscles and joints, protecting them for the rest of the workout.
 
   Examples:
   
   * High knees
-    
-    [![HIGH KNEES EXAMPLE](http://img.youtube.com/vi/7zEc2ic0oaA/0.jpg)](http://www.youtube.com/watch?v=7zEc2ic0oaA)
+
     http://www.youtube.com/watch?v=7zEc2ic0oaA
 
   * Jumping jacks
     
-    [![JUMPING JACKS EXAMPLE](http://img.youtube.com/vi/sYxABbY6Qv4/0.jpg)](http://www.youtube.com/watch?v=sYxABbY6Qv4)
     http://www.youtube.com/watch?v=sYxABbY6Qv4
 
   * Mountain climbers
 
-    [![MOUNTAIN CLIMBERS EXAMPLE](http://img.youtube.com/vi/6vlH7KqyXuY/0.jpg)](http://www.youtube.com/watch?v=6vlH7KqyXuY)
     http://www.youtube.com/watch?v=6vlH7KqyXuY
 
-  * Sprawl
+  * Sprawls
 
-    [![SPRAWLS EXAMPLE](http://img.youtube.com/vi/dUGgpj9oy_o/0.jpg)](http://www.youtube.com/watch?v=dUGgpj9oy_o)
     http://www.youtube.com/watch?v=dUGgpj9oy_o
 
   * Burpees
 
-    [![BURPEES EXAMPLE](http://img.youtube.com/vi/k6rTuwsmqBc/0.jpg)](http://www.youtube.com/watch?v=k6rTuwsmqBc)
     http://www.youtube.com/watch?v=k6rTuwsmqBc
 
-  * Rope skipping
-  
-    [![BURPEES EXAMPLE](http://img.youtube.com/vi/FJmRQ5iTXKE/0.jpg)](http://www.youtube.com/watch?v=FJmRQ5iTXKE)
-    (http://www.youtube.com/watch?v=FJmRQ5iTXKE)
+  * Jump rope
 
+    http://www.youtube.com/watch?v=FJmRQ5iTXKE
 
-* Workout
+---
 
-  This workout is based in five calisthenics exercises. The amount of reps, sets and resting time is variable depending on your fitness level. Select one exercise of each group below. 
+* **Workout**
+
+  This workout is based in five calisthenics exercises. Our goal is to emulate at a certain degree, each of the exercises main examples at home. Select one exercise of each group below. 
   
   **Remember! Choose each exercise thinking about the balance challenging/doable!**
 
-  * Pullup
-    * Chair/Table rows
+  * **Pullup**(main example: http://www.youtube.com/watch?v=eGo4IYlbE5g)
+
     * Door/Column rows
-    * Pullups
-  * Pushup
+
+      http://www.youtube.com/watch?v=rloXYB8M3vU&t=40
+
+    * Chair/Table rows
+
+      http://www.youtube.com/watch?v=rloXYB8M3vU&t=33
+
+  * **Pushup**(main example: https://www.youtube.com/watch?v=IODxDxX7oi4)
+
     * Incline push ups
+
+      https://www.youtube.com/watch?v=Me9bHFAxnCs      
+
     * Bent knee push ups
+
+      https://www.youtube.com/watch?v=LiKfLE2K_DI
+
     * Decline push ups
-    * One arm push ups
-  * Dips
+
+      https://www.youtube.com/watch?v=QuaOc1mFcqs
+
+  * **Dips**(main example: https://www.youtube.com/watch?v=2z8JmcrW-As)
+
     * Bench dips
-    * Cobra push up
-    * Dips
-  * Abs
-    * Ab crunches
+
+      https://www.youtube.com/watch?v=0326dy_-CzM
+
+    * Cobra push ups
+
+      https://www.youtube.com/watch?v=b6O70RsL-x0
+
+    * Tricep push ups
+
+      https://www.youtube.com/watch?v=hfIQ5V4Tcgo
+
+    * Chair dips
+
+  * **Abs**(main example: https://www.youtube.com/watch?v=9pQcSNs3hmY)
+
+    * Crunches
+
+      https://www.youtube.com/watch?v=5z9zhsTzKJ4
+
     * Knee hug crunches
+
+      https://www.youtube.com/watch?v=cE85YAFMUr4
+
     * Knee raises
-    * Leg raises
-  * Squat
+
+      https://www.youtube.com/watch?v=7gOMGqpPmyg
+
+  * **Squat**(main example: )
     * Air squats
     * Assisted pistol squats
     * Pistol squats
 
-## Split
-The protocol is mainly based in bodyweight movements. Thinking that we have a small pool of different exercises we can change the workout focusing in the following points.
-
-* Resistance(Default)
-
-  Focusing on resistance is the default workout. Think just about using the default amout of reps and sets with the default resting time.
-
-* Endurance
-
-  Endurance focus is when we try to make the default volume(Reps and sets) with the shortest duration possible, decreasing the amount of resting time intervals.
-
-* Strength(Kind of...)
-  
-  Strength focus
-
+---
 
 ## Progressions
 
-The regimen starts with 4 sets of 5 reps for each selected exercise. When you feel that some of the selected exercises isn't challenging anymore try to change to a harder progression.
+The protocol is mainly based in bodyweight movements. Thinking that we have a small pool of different exercises we can change the workout focusing in the following variables:
+
+### Variables
+
+  * Volume
+
+    Volume focus is when you increase the amount of reps and sets of your workout.
+
+  * Endurance
+
+    Endurance focus is when you prioritize lowering the amount of time needed for the workout. You reduce the amount of the resting time intervals, between sets.
+
+  * Strength(Kind of...)
+    
+    Strength focuses on prioritizing the exercise's load(Doing a harder progression).
+
+The regimen starts with 4 sets of 5 reps for each selected exercise, and a minute between sets. When you feel that the workout isn's challenging enough you can change one of the variables above.
 
 ## External links
 
