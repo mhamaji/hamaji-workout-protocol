@@ -134,6 +134,7 @@ The protocol is mainly based in bodyweight movements. The default workout is bas
 - Reps/Set
 - Rest Time
 - Exercise
+
 Thinking that we have a small pool of different exercises, we may change the workout focusing in the following variables, making it more challenging in different ways.
 
 ### Variables
