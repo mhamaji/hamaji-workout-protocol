@@ -44,7 +44,7 @@ Remember! These are just some guidelines for your workout. Every person is diffe
 
 * **Workout**
 
-  This workout is based in five calisthenics exercises. Our goal is to emulate at a certain degree, each of the exercises main examples at home. The exercises are ordered from the easier to the hardest. Select one exercise of each group below. 
+  This workout is based in five calisthenics exercises. Our goal is to emulate at a certain degree, each of the exercises main examples at home. The exercises are ordered from the easier to the hardest. Below are some example videos, select one exercise of each group below. 
   
   **Remember! Choose each exercise thinking about the balance challenging/doable!**
 
@@ -88,6 +88,8 @@ Remember! These are just some guidelines for your workout. Every person is diffe
 
     4. Chair dips
 
+      https://www.youtube.com/watch?v=XwYka-r6C-g
+
   * **Abs**(main example: https://www.youtube.com/watch?v=9pQcSNs3hmY)
 
     1. Crunches
@@ -102,7 +104,7 @@ Remember! These are just some guidelines for your workout. Every person is diffe
 
       https://www.youtube.com/watch?v=7gOMGqpPmyg
 
-  * **Squat**(main example: )
+  * **Squat**(main example: https://www.youtube.com/watch?v=qDcniqddTeE)
 
     1. Air squats
 
@@ -120,7 +122,11 @@ Remember! These are just some guidelines for your workout. Every person is diffe
 
 ## Progressions
 
-The protocol is mainly based in bodyweight movements. Thinking that we have a small pool of different exercises we can change the workout focusing in the following variables, making it more challenging in different ways.
+The protocol is mainly based in bodyweight movements. The default workout is based in 4 sets of 5 reps each and a minute of rest time between sets. When you feel that the default workout isn's challenging enough you can change your settings, tweaking any of the following:
+- Reps/Set
+- Rest Time
+- Exercise
+Thinking that we have a small pool of different exercises, we may change the workout focusing in the following variables, making it more challenging in different ways.
 
 ### Variables
 
@@ -134,23 +140,29 @@ The protocol is mainly based in bodyweight movements. Thinking that we have a sm
 
   * Strength
     
-    Strength focuses on prioritizing the exercise's load(Doing a harder progression).
+    Strength focuses on prioritizing the exercise's load(Do it in a harder progression).
 
-The regimen starts with 4 sets of 5 reps for each selected exercise, and a minute between sets. When you feel that the workout isn's challenging enough you can change one of the variables above.
+With these variables we can create a total of 4 different workouts:
+  - Default
+  - Volume
+  - Endurance
+  - Strength
 
-The chart below exemplifies how you can change variables to set focus on different objectives.
+From your default workout you can build sub-workouts oriented by the variables mentioned above.
 
-||Volume|Endurance|Strength|Balance(default)|
+**The chart below exemplifies how you can change variables setting different focus, for a specific exercise(Push up).**
+
+||Volume|Endurance|Strength|Default|
 |-|-|-|-|-|
-|Rest time|60s|30s|60s|60s|
 |Reps/Set|10|5|5|5|
-|Progression|Incline push ups|Incline push ups|Knee push ups|Incline push ups|
+|Rest time|60s|30s|60s|60s|
+|Exercise|Incline push ups|Incline push ups|Knee push ups|Incline push ups|
 
 ## Split
-
+Below is an suggestion of split that varies the stimuli through the days.
 ||Day 1|Day 2|Day 3|Day 4|
 |-|-|-|-|-|
-|Main Variable|Balance|Volume|Endurance|Strength|
+|Main Variable|Default|Volume|Endurance|Strength|
 
 ## External links
 
